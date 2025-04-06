@@ -134,3 +134,10 @@ header {
         flex: 1;
     }
 }
+footer {
+    margin:auto;
+    padding: 3rem;
+    background-color: var(--bg-color-dark);
+    color: var(--text-color-light);
+    text-align: center;
+}

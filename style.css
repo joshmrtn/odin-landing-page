@@ -13,4 +13,29 @@ body {
     color: var(--text-color-dark);
     background-color: var(--bg-color-light);
 }
+header {
+    /* layout */
+    display: flex;
+    /* appearance */
+    background-color: var(--bg-color-dark);
 
+    h1 {
+        /* layout */
+        flex: 1;
+        /* appearance */
+        color: var(--text-color-light);
+        font-size: 18px;
+
+    }
+
+    nav {
+        flex: 1;
+
+        a {
+            color: var(--text-color-grey);
+            text-decoration: none;
+            font-size: 18px;
+
+        }
+    }
+}

@@ -75,6 +75,7 @@ header {
     }
 }
 .mid {
+    text-align: center;
     h2 {
         font-size: 36px;
         font-weight: 900;

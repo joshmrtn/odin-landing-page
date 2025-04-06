@@ -6,3 +6,10 @@
     --text-color-dark: #1F2937; /* information header text */
     --highlight-color: #3382F6; /* buttons, call to action bg color */
 }
+
+body {
+    /* Typography */
+    font-family: 'Roboto', Verdana, sans-serif;
+    color: var(--text-color-dark);
+    background-color: var(--bg-color-light);
+}

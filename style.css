@@ -71,7 +71,7 @@ header {
 
         img {
             /* placeholder image */
-            background-image: repeating-radial-gradient(grey, white, blue,  grey, white);
+            background-image: radial-gradient(grey, white, grey);
             width: 100%;
             height: 90%;
         }
@@ -100,7 +100,7 @@ header {
                 /* placeholder image */
                 height: 10rem;
                 width: 10rem;
-                background-image: repeating-radial-gradient(blue, white, grey, blue, white, grey);
+                background-image: radial-gradient(white, grey);
                 border: 1px solid blue;
                 border-radius: 1rem;
             }

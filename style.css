@@ -138,6 +138,7 @@ header {
         border-radius: .25rem;
         background-color: var(--highlight-color);
         height: 2rem;
+        width: 10rem;
         flex: 1;
     }
 }

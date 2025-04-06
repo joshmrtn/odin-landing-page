@@ -35,6 +35,7 @@ header {
         flex: 1;
 
         a {
+            padding: 0rem 0.5em;;
             color: var(--text-color-grey);
             text-decoration: none;
             font-size: 18px;

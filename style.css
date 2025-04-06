@@ -1,0 +1,8 @@
+:root {
+    --bg-color-dark: #1F2937; /* Used by hero and footer*/
+    --bg-color-light: #F9FAF8; /* body background*/
+    --text-color-light: #F9FAF8; /* hero/header text */
+    --text-color-grey: #E5E7EB; /* secondary text, header links */
+    --text-color-dark: #1F2937; /* information header text */
+    --highlight-color: #3382F6; /* buttons, call to action bg color */
+}

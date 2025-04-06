@@ -71,6 +71,7 @@ header {
             border-radius: .25rem;
             height: 2rem;
             width: 10rem;
+            font-size: 18px;
         }
 
         img {
@@ -152,6 +153,7 @@ header {
         height: 2rem;
         width: 10rem;
         flex: 1;
+        font-size: 18px;
     }
 }
 footer {

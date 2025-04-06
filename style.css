@@ -22,12 +22,15 @@ header {
     /* appearance */
     background-color: var(--bg-color-dark);
 
-    h1 {
+    a {
         /* layout */
         flex: 1;
         /* appearance */
         color: var(--text-color-light);
-        font-size: 18px;
+        text-decoration: none;
+        h1 {
+            font-size: 18px;
+        }
 
     }
 

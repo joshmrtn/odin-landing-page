@@ -18,7 +18,7 @@ body {
 header {
     /* layout */
     display: flex;
-    padding: 1rem;
+    padding: 1rem 10rem;
     /* appearance */
     background-color: var(--bg-color-dark);
 
@@ -46,7 +46,7 @@ header {
 .top {
     /* layout */
     display: flex;
-    padding: 1rem;
+    padding: 1rem 10rem;
     gap: 2rem;
     /* appearance */
     color: var(--text-color-light);
@@ -78,6 +78,7 @@ header {
     }
 }
 .mid {
+    padding: 1rem 10rem;
     text-align: center;
     h2 {
         font-size: 36px;
@@ -109,7 +110,7 @@ header {
 
 }
 .quote {
-    padding: 4rem;
+    padding: 1rem 10rem;
     background-color: var(--text-color-grey);
     color: var(--text-color-dark);
     font-size: 36px;
@@ -128,7 +129,7 @@ header {
     align-items: center;
     gap: 1rem;
     margin:40px 40px;
-    padding: 1rem 5rem;
+    padding: 1rem 10rem;
     border-radius: 1rem;
     color: var(--text-color-light);
     background-color: var(--highlight-color);

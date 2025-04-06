@@ -87,6 +87,8 @@ header {
     .flex-row {
         display: flex;
         justify-content: space-around;
+        gap: 1rem;
+        flex-flow: row wrap;
         align-items: center;
         .captioned-image {
             display: flex;
@@ -103,6 +105,7 @@ header {
                 border-radius: 1rem;
             }
             p {
+                max-width: 10rem;
                 text-align: center;
             }
         }

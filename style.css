@@ -67,3 +67,33 @@ header {
         }
     }
 }
+.mid {
+    h2 {
+        font-size: 36px;
+        font-weight: 900;
+    }
+    .flex-row {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        .captioned-image {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            img {
+                
+                /* placeholder image */
+                height: 10rem;
+                width: 10rem;
+                background-image: repeating-radial-gradient(blue, white, grey, blue, white, grey);
+                border: 1px solid blue;
+                border-radius: 1rem;
+            }
+            p {
+                text-align: center;
+            }
+        }
+    }
+
+}

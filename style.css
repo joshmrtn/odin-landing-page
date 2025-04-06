@@ -16,6 +16,7 @@ body {
 header {
     /* layout */
     display: flex;
+    padding: 1rem;
     /* appearance */
     background-color: var(--bg-color-dark);
 

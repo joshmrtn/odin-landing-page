@@ -55,6 +55,10 @@ header {
     div {
         flex: 1;
 
+        h1 {
+            font-size: 48px;
+        }
+
         p {
             color: var(--text-color-grey);
         }

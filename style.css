@@ -46,7 +46,7 @@ header {
 .top {
     /* layout */
     display: flex;
-    padding: 1rem 10rem;
+    padding: 5rem 10rem;
     gap: 2rem;
     /* appearance */
     color: var(--text-color-light);
